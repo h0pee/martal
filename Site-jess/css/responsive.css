@@ -1,0 +1,12 @@
+@media(min-width:992px){
+    .sessaoheader .navbarcollapse{
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .sessaoheader .navbarcollapse{
+        width: 100%;
+    }
+}

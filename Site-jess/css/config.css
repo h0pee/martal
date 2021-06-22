@@ -1,0 +1,10 @@
+/*<a class="navbar-brand" href="#">
+          <img src="Imagens/logo-jess1.jpeg" alt="" style="width:5rem">
+        </a> ==== LOGO MARTAL*/
+
+:root{
+    --primary: rgb(73, 12, 8);
+    --primary-dark: rgb(124, 28, 11);
+    --primary-yellow: rgb(214, 214, 11);
+    --secondary: rgb(82, 82, 82);
+}

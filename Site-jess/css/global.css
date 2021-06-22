@@ -1,0 +1,29 @@
+.txt-header{
+    color: var(--primary);
+}
+
+.button{
+    font-weight: 500;
+    padding-right: 1.4rem;
+    padding-left: 1.4rem;
+}
+
+.button-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.button-primary:hover{
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+}
+
+.button-primary-outline{
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.button-primary-outline:hover{
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+}

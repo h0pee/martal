@@ -1,0 +1,60 @@
+body, html{
+    font-family:'Roboto', sans-serif;
+}
+
+.sessao-header{
+    width: 100%;
+    height: 6rem;
+    background-color: transparent;
+    transition: background ease-out 0.2s;
+    border-bottom: solid var(--secondary);
+}
+
+.img-hrz{
+    border-radius: 10px;
+}
+
+.sessao-header .navbar-collapse{
+    width: auto;
+}
+
+.sessao-header .nav-link{
+    text-transform: uppercase;
+    font-weight: 400;
+    padding-left: 0;
+    padding-right: 0;
+    border-bottom: solid 4px transparent;
+}
+
+.sessao-header .nav-link:hover{
+    transition: .3s;
+    border-bottom: solid 4px var(--secondary);
+}
+
+.sessao-slider{
+    display: flex;
+    justify-content: center;
+    padding-top: 4rem;
+    padding-bottom: 8rem;
+}
+
+.sessao-slider h1,h4{
+    color: var(--secondary);
+}
+
+.img-fluid{
+    border-radius: 10px;
+}
+
+.rodape{
+    background-color: var(--primary);
+    color: white;
+}
+
+.sessao-body h1{
+    color: var(--secondary);
+}
+
+#foto-perfil{
+    border-radius: 50px;
+}
